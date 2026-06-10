@@ -1,4 +1,6 @@
-# Advanced ChatterBot — Python AI Chatbot
+# Intern ID : CITS1699
+
+# Advanced ChatBot — Python Chatterbot
 
 An advanced, interactive, self-learning terminal chatbot powered by python's `ChatterBot` and machine learning.
 
